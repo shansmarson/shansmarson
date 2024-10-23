@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @shansmarson
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on frontend developing UI UX
-- 📫 you can reach me by shansmarson@gmail.com
+💻 Aspiring Software Tester | 🎯 Manual Testing Enthusiast
 
-<!---
-shansmarson/shansmarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about delivering quality software through meticulous manual testing. With hands-on experience in testing techniques and tools, I'm eager to contribute to teams focused on improving software reliability.
+
+🌱 Currently learning manual testing.
+
+🚀 Aspiring to transition into a full-time software testing role.
+
+📫 Let's connect and collaborate on projects that ensure exceptional user experiences!
